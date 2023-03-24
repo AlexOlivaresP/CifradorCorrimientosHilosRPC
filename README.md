@@ -1,7 +1,7 @@
 # CifradorCorrimientosHilosRPC
 Cifrador de corrimientos que usa hilos y RPC para ejecutar en un servidor en una maquina en una red local.
 
-Este codgigo funciona de la siguiente manera:
+Este codigo funciona de la siguiente manera:
 
 HilosVm es el raiz y tambien es el archivo local, en este archivo podras modificar la ruta del archivo de texto que quieras cifrar.
 
